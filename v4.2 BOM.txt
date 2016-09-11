@@ -1,0 +1,36 @@
+Partlist exported from D:/Documents/Dropbox/RaspberryPi/CraftBeerPi PCB/v4.0/4.2/v4.2.sch at 12.09.2016 01:14
+
+Part        Value              Device                Package              Description                                                                                           
++12POWER    MKDSN1,5/2-5,08    MKDSN1,5/2-5,08       MKDSN1,5/2-5,08      MKDSN 1,5/ 2-5,08 Printklemme                                                                         
+D1          1N4007             1N4004                DO41-10              DIODE                                                                                                 
+D2          1N4007             1N4004                DO41-10              DIODE                                                                                                 
+D3          1N4007             1N4004                DO41-10              DIODE                                                                                                 
+D4          1N4007             1N4004                DO41-10              DIODE                                                                                                 
+D5          1N4007             1N4004                DO41-10              DIODE                                                                                                 
+D6          1N4007             1N4004                DO41-10              DIODE                                                                                                 
+GPIO04      MKDSN1,5/2-5,08    MKDSN1,5/2-5,08       MKDSN1,5/2-5,08      MKDSN 1,5/ 2-5,08 Printklemme                                                                         
+GPIO05      MKDSN1,5/2-5,08    MKDSN1,5/2-5,08       MKDSN1,5/2-5,08      MKDSN 1,5/ 2-5,08 Printklemme                                                                         
+GPIO13      MKDSN1,5/2-5,08    MKDSN1,5/2-5,08       MKDSN1,5/2-5,08      MKDSN 1,5/ 2-5,08 Printklemme                                                                         
+GPIO17      MKDSN1,5/2-5,08    MKDSN1,5/2-5,08       MKDSN1,5/2-5,08      MKDSN 1,5/ 2-5,08 Printklemme                                                                         
+GPIO22      MKDSN1,5/2-5,08    MKDSN1,5/2-5,08       MKDSN1,5/2-5,08      MKDSN 1,5/ 2-5,08 Printklemme                                                                         
+GPIO26      MKDSN1,5/2-5,08    MKDSN1,5/2-5,08       MKDSN1,5/2-5,08      MKDSN 1,5/ 2-5,08 Printklemme                                                                         
+I2C         I2C                PINHD-1X4             1X04                 PIN HEADER                                                                                            
+PAD1        WIREPAD2,54/1,0    WIREPAD2,54/1,0       2,54/1,0             Wire PAD connect wire on PCB                                                                          
+Q1          BC337              BC337-25-NPN-TO92-CBE TO92-CBE             NPN Transistror                                                                                       
+Q2          BC337              BC337-25-NPN-TO92-CBE TO92-CBE             NPN Transistror                                                                                       
+Q3          BC337              BC337-25-NPN-TO92-CBE TO92-CBE             NPN Transistror                                                                                       
+Q4          BC337              BC337-25-NPN-TO92-CBE TO92-CBE             NPN Transistror                                                                                       
+Q5          BC337              BC337-25-NPN-TO92-CBE TO92-CBE             NPN Transistror                                                                                       
+Q6          BC337              BC337-25-NPN-TO92-CBE TO92-CBE             NPN Transistror                                                                                       
+R1          4.7k               R-US_0207/7           0207/7               RESISTOR, American symbol                                                                             
+R2          1k                 R-US_0207/7           0207/7               RESISTOR, American symbol                                                                             
+R3          1k                 R-US_0207/7           0207/7               RESISTOR, American symbol                                                                             
+R4          1k                 R-US_0207/7           0207/7               RESISTOR, American symbol                                                                             
+R5          1k                 R-US_0207/7           0207/7               RESISTOR, American symbol                                                                             
+R7          1k                 R-US_0207/7           0207/7               RESISTOR, American symbol                                                                             
+R8          1k                 R-US_0207/7           0207/7               RESISTOR, American symbol                                                                             
+TEMP_GPIO18 MKDSN1,5/3-5,08    MKDSN1,5/3-5,08       MKDSN1,5/3-5,08      MKDSN 1,5/ 3-5,08 Printklemme                                                                         
+TEMP_GPIO23 MKDSN1,5/3-5,08    MKDSN1,5/3-5,08       MKDSN1,5/3-5,08      MKDSN 1,5/ 3-5,08 Printklemme                                                                         
+TEMP_GPIO24 MKDSN1,5/3-5,08    MKDSN1,5/3-5,08       MKDSN1,5/3-5,08      MKDSN 1,5/ 3-5,08 Printklemme                                                                         
+U$1         MP1584             MP1584                MP1584                                                                                                                     
+X1          RASPI_BOARD_B+#_HD RASPI_BOARD_B+#_HD    RASPI_BOARD_B+HAT_DF Raspberry Pi GPIO connector with markings for the outer dimensions of the Raspberry Pi board model B+ 
